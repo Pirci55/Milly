@@ -1,6 +1,7 @@
 {
-    "prefix" : "!",
-	"clientId": "",
-	"guildId": "",
-	"token": ""
+  "token": "",
+  "chatGPTkey": "",
+  "deepAIkey": "",
+  "bingAIkey": "",
+  "chatsonicKey": ""
 }

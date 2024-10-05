@@ -1,19 +1,13 @@
 {
-  "name": "b",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@discordjs/rest": "^0.2.0-canary.0",
-    "@discordjs/voice": "^0.7.5",
-    "discord.js": "^13.5.1",
-    "ffmpeg": "^0.0.4",
-    "ytdl": "^1.4.1",
-    "ytdl-core": "^4.9.2"
+    "@vitalets/google-translate-api": "^9.2.0",
+    "bing-chat": "^0.2.3",
+    "chatgpt": "^5.2.5",
+    "discord-api-types": "^0.37.36",
+    "discord.js": "^14.13.0",
+    "fs": "^0.0.1-security",
+    "jsdom": "^22.1.0",
+    "path": "^0.12.7",
+    "rest": "^2.0.0"
   }
 }

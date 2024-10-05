@@ -1,0 +1,19 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "@discordjs/voice": "^0.7.5",
+    "discord.js": "^13.5.1",
+    "ffmpeg": "^0.0.4",
+    "ytdl": "^1.4.1",
+    "ytdl-core": "^4.9.2"
+  }
+}

@@ -1,0 +1,1 @@
+start /realtime powershell.exe "node index.js"
